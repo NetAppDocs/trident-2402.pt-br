@@ -73,16 +73,6 @@ link:https://docs.netapp.com/us-en/trident-2204/index.html["22,04"^]
  a| 
 link:https://docs.netapp.com/us-en/trident-2201/index.html["22,01"^]
 | -- | -- | Janeiro de 2025 
-
-
- a| 
-link:https://docs.netapp.com/us-en/trident-2110/index.html["21,10"^]
-| -- | -- | Outubro de 2024 
-
-
- a| 
-link:https://docs.netapp.com/us-en/trident-2107/index.html["21,07"^]
-| -- | -- | Julho de 2024 
 |===
 
 
