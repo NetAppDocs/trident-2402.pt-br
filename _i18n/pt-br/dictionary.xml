@@ -4276,4 +4276,6 @@
   <block id="e932e8b67111a2dc118d7599f04cdc8b" category="paragraph">O Astra Control Provisioner restaura os dados do snapshot. Você pode verificar o status de restauração de snapshot.</block>
   <block id="454c5148c2a664f37fc49833dc491272" category="list-text">Na maioria dos casos, o Astra Control Provisioner não tentará automaticamente a operação em caso de falha. Terá de efetuar novamente a operação.</block>
   <block id="c83b74c2020dd836f5b401ecda0da78c" category="list-text">Os usuários do Kubernetes sem acesso de administrador podem ter permissão para que o administrador crie um TASR CR em seu namespace de aplicativo.</block>
+  <block id="fd2382cbf04a0cd551917ebb29238078" category="paragraph">Ao usar o nvme/tcp em ambientes k8s com nomes de nós longos, os pods não podem ser anexados ao armazenamento.</block>
+  <block id="aa68fd6175a82d0d7c1dda4f60cac719" category="paragraph">Reduza o nome do nó para que o nome do subsistema tenha menos de 64 carateres.</block>
 </blocks>
